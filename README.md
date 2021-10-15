@@ -5,7 +5,7 @@
 About R-Ladies St. Louis Intro slides:https://rladiesstl.github.io/intro-meetup3-oct-2021/
 
 Materials for the workshop in this repo include:
-  - R script entitled "RLADIESSTL-ggplot2-october-2021.R
+  - R script entitled "RLADIESSTL-ggplot2-october-2021.R"
 
 ### Preparing for the Workshop
 
